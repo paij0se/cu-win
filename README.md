@@ -8,6 +8,8 @@ command list:
 
 - cat
 
+- clear
+
 <h1>You want to use it?</h1>
 
 - Just move all the binaries file to  `C:\Windows\System32`
